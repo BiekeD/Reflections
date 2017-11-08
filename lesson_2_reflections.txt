@@ -24,3 +24,7 @@ Branches allow you to make a different working version of a project. If you
 want to make a sequence of bigger changes and test them out, while still
 keeping an original version working, it is easiest to create a separate
 branch for this 'experiment'.
+
+How to the diagrams help you visualize the branch structure?
+
+Pictures always make things clearer.

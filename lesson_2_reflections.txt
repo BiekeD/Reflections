@@ -28,3 +28,9 @@ branch for this 'experiment'.
 How to the diagrams help you visualize the branch structure?
 
 Pictures always make things clearer.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches brings together updates made in two separate ways of the
+same file.

@@ -10,3 +10,17 @@ repository? What value do you think it offers?
 The staging area contains the files from the working directory that you want
 to commit next. This lets you think over which files you exactly want to put in
 your commit.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+By comparing the files in your staging area with the files in the
+repository you can see that the changes you made are a logical next commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches allow you to make a different working version of a project. If you
+want to make a sequence of bigger changes and test them out, while still
+keeping an original version working, it is easiest to create a separate
+branch for this 'experiment'.
